@@ -1,6 +1,5 @@
 # Clustering Assignment
-Name: Chongyi Wang  
-PSID: 2244409
+
 ### Way to run the code:
 Run the code cells by cells, the first cell is for data preprocessing (Turning Air Quality tag from text to number) and normalization by StandarScaler().
 
